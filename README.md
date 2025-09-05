@@ -1,2 +1,50 @@
-# Landing Page - "Autozalog"
-<img width="1440" alt="Screen Shot 2023-04-10 at 11 56 23" src="https://user-images.githubusercontent.com/99406219/230836367-344cef5b-d525-495e-812c-068575b62550.png">
+# 🚗 Autozalog — Instant Loan Website Solution
+
+Autozalog offers immediate cash solutions under car collateral. The website is designed to highlight trust, speed, and transparency. Its straightforward interface ensures quick access to financial services. A similar project can build credibility and accelerate customer conversions.
+
+---
+
+<h3>🖼 Preview</h3>
+
+<img width="1430" height="814" alt="Screen Shot 2025-09-05 at 10 50 16 PM" src="https://github.com/user-attachments/assets/0098d047-baa6-4cca-b2df-8673d2fd692f" />
+
+---
+
+<h3>🎯 Project Goals</h3>
+
+- ✅ Build a user-friendly and adaptive website with responsive design that reflects the company’s services
+- ✨ Add personality and liveliness to the site through pure JavaScript animations
+- ⚡ Ensure high loading speed and cross-browser compatibility (Google Chrome, Safari, Yandex Browser, Opera, Edge, Brave, etc.)
+- 🛠 Develop clean, valid, and maintainable code using only standard web technologies to guarantee stability and performance
+
+---
+
+<h3>🧩 Development Features</h3>
+
+- 📐 Semantic **HTML5** markup for well-structured and accessible architecture  
+- 🎨 **CSS3 + SCSS (Sass)** for styling with modularity and reusability  
+- 🏷️ **BEM methodology** for organized class naming and scalability  
+- 📱 Responsive layout with **Flexbox** and **CSS Grid**  
+- ⚙️ **JavaScript** for interactive elements and dynamic behavior  
+- 🔄 **Gulp + Webpack** for task automation:  
+  - SCSS compilation  
+  - Minification  
+  - Image optimization  
+  - Hot-reload during development  
+
+---
+
+<h3>🛠️ Tech Stack</h3>
+
+| Technology         | Purpose                   |
+| ------------------ | ------------------------- |
+| **HTML5**          | Structure & semantics     |
+| **CSS3 / SCSS**    | Styling & maintainability |
+| **BEM**            | Clean and scalable code   |
+| **Flexbox & Grid** | Responsive design         |
+| **JavaScript**     | Dynamic functionality     |
+| **Gulp & Webpack** | Build automation          |
+
+---
+
+✨ The chosen **technology stack** ensures stable performance, ease of development, and long-term support.
